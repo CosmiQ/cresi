@@ -5,8 +5,6 @@ Created on Mon Sep 10 13:51:43 2018
 
 @author: avanetten
 
-scp -r /Users/avanetten/Documents/cosmiq/basiss/albu_inference_mod_new/src 10.123.1.70:/raid/local/src/basiss/albu_inference_mod_new
-
 """
 
 import os
